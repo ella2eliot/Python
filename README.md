@@ -1,2 +1,2 @@
 # Python
-for Master homework, include Python class and
+for Master homework, include Python class and Quantitative Research Methods in e-Learning class
